@@ -1,1 +1,4 @@
 hola soy Jaime, acuatlizando el texto
+
+git pull
+git fetch
